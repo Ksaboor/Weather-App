@@ -1,0 +1,19 @@
+body{
+  background :url("http://unsplash.com/photos/F_EfOSXh0sI/download?force=true");
+  background-size: cover;
+  height: auto;
+}
+.block {
+  opacity: .7;
+  background-color: black;
+  padding: 50px;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 90px;
+  border-radius: 20px;
+  color: whitesmoke;
+}
+p{
+  font-size:35px;
+}
